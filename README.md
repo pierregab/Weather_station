@@ -15,7 +15,7 @@ Ce projet consiste à développer une station météo en utilisant deux cartes A
 
 ## Installation et Configuration
 1. Assembler le matériel selon le schéma de montage fourni.
-2. Charger les codes sources sur les deux cartes Arduino (voir les sections ci-dessous).
+2. Charger les codes sources sur les deux cartes Arduino.
 
 ## Code pour la Carte Capteur
 Le code pour la carte capteur gère la collecte de données environnementales. Il utilise divers protocoles de communication (1-wire, I2C, etc.) pour lire les données des capteurs et les envoyer à la carte afficheur.
